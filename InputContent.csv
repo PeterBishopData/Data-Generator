@@ -1,0 +1,7 @@
+Money Receipt,1,Thank you for the sum of $,X1, received,#,#,#,#
+Money Payment,1,Your bank account has been credited with the sum of $,X1,#,#,#,#,#
+Information,1,A shortage in ,Y, is causing ,Z, futures to rise,#,#
+Information,1,A glut in ,Y, is causing ,Z, futures to fall,#,#
+Sale,1,We have sold ,X2, futures of ,Z, at $,X3, on your behalf
+Purchase,1,We have bought ,X2, futures of ,Z, at $,X3, on your behalf
+New Trading Conditions,1,Please see new terms and conditions for business,#,#,#,#,#,#
